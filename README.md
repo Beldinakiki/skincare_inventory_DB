@@ -1,4 +1,4 @@
-# 🧴 Skincare Products Inventory Management System 🧴
+# 🧴 Skincare Products Inventory Management System 
 
 ## ✨ Project Overview
 
